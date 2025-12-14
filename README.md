@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Songül</h1>
 <h3 align="center">Python ve mobil uygulama geliştirmeyi öğreniyorum.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
